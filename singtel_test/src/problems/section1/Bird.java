@@ -1,5 +1,6 @@
 package problems.section1;
 
+import problems.Animal;
 import problems.intfc.Fly;
 import problems.intfc.Sing;
 import problems.intfc.Walk;

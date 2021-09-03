@@ -1,7 +1,8 @@
 package problems.section.c;
 import problems.intfc.State;
+import problems.Animal;
 
-public class Insect {
+public class Insect extends Animal {
     private State state;
 
     public Insect() {

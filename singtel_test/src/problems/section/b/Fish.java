@@ -3,7 +3,7 @@ package problems.section.b;
 import problems.Color;
 import problems.Size;
 import problems.intfc.Swim;
-import problems.section1.Animal;
+import problems.Animal;
 
 public class Fish extends Animal implements Swim {
 

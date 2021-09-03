@@ -1,7 +1,7 @@
 package problems.section.b;
 
 import problems.intfc.Swim;
-import problems.section1.Animal;
+import problems.Animal;
 
 public class Dolphin extends Animal implements Swim {
 

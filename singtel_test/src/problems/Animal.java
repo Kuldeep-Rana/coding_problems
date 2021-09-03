@@ -1,10 +1,10 @@
-package problems.section2and3;
+package problems;
 
 import problems.Sex;
 
 public abstract class Animal {
 
-    protected Sex sex;
+    public Sex sex;
 
     protected void setSex(Sex sex){
         this.sex = sex;
