@@ -1,4 +1,4 @@
-package problems.section2and3;
+package problems.intfc;
 
 public interface Walk {
 

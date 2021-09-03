@@ -1,4 +1,4 @@
-package problems.section4;
+package problems.intfc;
 
 public interface Fly {
 

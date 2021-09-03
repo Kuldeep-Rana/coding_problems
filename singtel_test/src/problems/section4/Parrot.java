@@ -1,6 +1,8 @@
 package problems.section4;
 
-public class Parrot extends  Bird implements  Fly{
+import problems.intfc.Fly;
+
+public class Parrot extends  Bird implements Fly {
 
 
 }

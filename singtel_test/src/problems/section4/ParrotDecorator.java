@@ -1,6 +1,8 @@
 package problems.section4;
 
-public class ParrotDecorator implements  Sing{
+import problems.intfc.Sing;
+
+public class ParrotDecorator implements Sing {
 
     private Parrot parrot;
 

@@ -1,6 +1,9 @@
 package problems.section2and3;
 
-public class Duck extends Bird implements Fly, Swim{
+import problems.intfc.Fly;
+import problems.intfc.Swim;
+
+public class Duck extends Bird implements Fly, Swim {
 
     @Override
     public void sing() {
