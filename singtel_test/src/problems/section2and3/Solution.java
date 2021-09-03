@@ -7,6 +7,7 @@ public class Solution {
     public static void main(String[] args) {
         Duck duck = new Duck();
         duck.sing();
+        duck.swim();
 
         Chicken chicken = new Chicken();
         chicken.sex = Sex.FEMALE;
