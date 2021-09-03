@@ -1,4 +1,4 @@
-package problems;
+package problems.section1;
 
 public class Solution {
 
